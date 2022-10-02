@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J9414
+- 👋 Hi, I’m @J
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning java on my own 
 - 💞️ I’m looking to collaborate on ...
