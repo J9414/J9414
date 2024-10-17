@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jay
+- 👋 Hi, I’m Groot
 - 👀 I’m interested in solution 
 - 🌱 I’m currently learning java and mearn stack
 - 💞️ I’m looking to collaborate on any project with java and learn something more.
