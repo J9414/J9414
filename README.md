@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Groot
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning java on my own 
+- 👋 Hi, I’m jay
+- 👀 I’m interested in solution 
+- 🌱 I’m currently learning java and mearn stack
 - 💞️ I’m looking to collaborate on any project with java and learn something more.
 - 📫 
 
